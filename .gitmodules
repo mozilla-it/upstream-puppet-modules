@@ -49,3 +49,6 @@
 [submodule "mailalias_core"]
 	path = mailalias_core
 	url = https://github.com/puppetlabs/puppetlabs-mailalias_core
+[submodule "mysql"]
+	path = mysql
+	url = https://github.com/puppetlabs/puppetlabs-mysql
