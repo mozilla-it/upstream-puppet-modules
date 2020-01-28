@@ -25,3 +25,6 @@
 [submodule "extlib"]
 	path = extlib
 	url = https://github.com/voxpupuli/puppet-extlib
+[submodule "fail2ban"]
+	path = fail2ban
+	url = https://github.com/voxpupuli/puppet-fail2ban
