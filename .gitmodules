@@ -13,3 +13,6 @@
 [submodule "augeas"]
 	path = augeas
 	url = https://github.com/camptocamp/puppet-augeas
+[submodule "augeasproviders_core"]
+	path = augeasproviders_core
+	url = https://github.com/hercules-team/augeasproviders_core
