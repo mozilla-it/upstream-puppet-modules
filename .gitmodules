@@ -37,3 +37,6 @@
 [submodule "grafana"]
 	path = grafana
 	url = https://github.com/voxpupuli/puppet-grafana
+[submodule "inifile"]
+	path = inifile
+	url = https://github.com/puppetlabs/puppetlabs-inifile
