@@ -55,3 +55,6 @@
 [submodule "nrpe"]
 	path = nrpe
 	url = https://github.com/voxpupuli/puppet-nrpe
+[submodule "ntp"]
+	path = ntp
+	url = https://github.com/puppetlabs/puppetlabs-ntp
