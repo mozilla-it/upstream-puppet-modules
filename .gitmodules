@@ -10,3 +10,6 @@
 [submodule "archive"]
 	path = archive
 	url = https://github.com/voxpupuli/puppet-archive
+[submodule "augeas"]
+	path = augeas
+	url = https://github.com/camptocamp/puppet-augeas
