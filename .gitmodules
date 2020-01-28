@@ -19,3 +19,6 @@
 [submodule "augeasproviders_shellvar"]
 	path = augeasproviders_shellvar
 	url = https://github.com/hercules-team/augeasproviders_shellvar
+[submodule "concat"]
+	path = concat
+	url = https://github.com/puppetlabs/puppetlabs-concat
