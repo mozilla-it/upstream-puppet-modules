@@ -46,3 +46,6 @@
 [submodule "kmod"]
 	path = kmod
 	url = https://github.com/camptocamp/puppet-kmod
+[submodule "mailalias_core"]
+	path = mailalias_core
+	url = https://github.com/puppetlabs/puppetlabs-mailalias_core
