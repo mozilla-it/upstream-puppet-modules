@@ -74,3 +74,6 @@
 [submodule "stdlib"]
 	path = stdlib
 	url = https://github.com/puppetlabs/puppetlabs-stdlib
+[submodule "systemd"]
+	path = systemd
+	url = https://github.com/camptocamp/puppet-systemd
