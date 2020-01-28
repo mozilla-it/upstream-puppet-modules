@@ -7,3 +7,6 @@
 [submodule "apt"]
 	path = apt
 	url = https://github.com/puppetlabs/puppetlabs-apt
+[submodule "archive"]
+	path = archive
+	url = https://github.com/voxpupuli/puppet-archive
