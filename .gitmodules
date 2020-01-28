@@ -1,3 +1,6 @@
 [submodule "alternatives"]
 	path = alternatives
 	url = https://github.com/voxpupuli/puppet-alternatives
+[submodule "apache"]
+	path = apache
+	url = https://github.com/puppetlabs/puppetlabs-apache
