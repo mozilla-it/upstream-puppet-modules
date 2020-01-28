@@ -83,3 +83,6 @@
 [submodule "vcsrepo"]
 	path = vcsrepo
 	url = https://github.com/puppetlabs/puppetlabs-vcsrepo
+[submodule "xinetd"]
+	path = xinetd
+	url = https://github.com/puppetlabs/puppetlabs-xinetd
