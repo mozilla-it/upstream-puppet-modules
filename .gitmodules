@@ -22,3 +22,6 @@
 [submodule "concat"]
 	path = concat
 	url = https://github.com/puppetlabs/puppetlabs-concat
+[submodule "extlib"]
+	path = extlib
+	url = https://github.com/voxpupuli/puppet-extlib
