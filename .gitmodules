@@ -80,3 +80,6 @@
 [submodule "translate"]
 	path = translate
 	url = https://github.com/puppetlabs/puppetlabs-translate.git
+[submodule "vcsrepo"]
+	path = vcsrepo
+	url = https://github.com/puppetlabs/puppetlabs-vcsrepo
