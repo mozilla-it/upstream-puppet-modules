@@ -43,3 +43,6 @@
 [submodule "kernel_boot_arg"]
 	path = kernel_boot_arg
 	url = https://github.com/floatingatoll/puppet-kernel_boot_arg
+[submodule "kmod"]
+	path = kmod
+	url = https://github.com/camptocamp/puppet-kmod
