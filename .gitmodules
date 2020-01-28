@@ -28,3 +28,6 @@
 [submodule "fail2ban"]
 	path = fail2ban
 	url = https://github.com/voxpupuli/puppet-fail2ban
+[submodule "firewall"]
+	path = firewall
+	url = https://github.com/puppetlabs/puppetlabs-firewall
