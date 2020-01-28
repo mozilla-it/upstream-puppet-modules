@@ -61,3 +61,6 @@
 [submodule "postfix"]
 	path = postfix
 	url = https://github.com/camptocamp/puppet-postfix
+[submodule "postgresql"]
+	path = postgresql
+	url = https://github.com/puppetlabs/puppetlabs-postgresql
