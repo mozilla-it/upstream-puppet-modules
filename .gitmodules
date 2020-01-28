@@ -40,3 +40,6 @@
 [submodule "inifile"]
 	path = inifile
 	url = https://github.com/puppetlabs/puppetlabs-inifile
+[submodule "kernel_boot_arg"]
+	path = kernel_boot_arg
+	url = https://github.com/floatingatoll/puppet-kernel_boot_arg
