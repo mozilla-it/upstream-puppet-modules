@@ -71,3 +71,6 @@
 	path = python
 	url = https://github.com/initrd/puppet-python
 	branch = centos8
+[submodule "stdlib"]
+	path = stdlib
+	url = https://github.com/puppetlabs/puppetlabs-stdlib
