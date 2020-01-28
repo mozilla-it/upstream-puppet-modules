@@ -31,3 +31,6 @@
 [submodule "firewall"]
 	path = firewall
 	url = https://github.com/puppetlabs/puppetlabs-firewall
+[submodule "foreman"]
+	path = foreman
+	url = https://github.com/theforeman/puppet-foreman
