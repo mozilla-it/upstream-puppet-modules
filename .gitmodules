@@ -58,3 +58,6 @@
 [submodule "ntp"]
 	path = ntp
 	url = https://github.com/puppetlabs/puppetlabs-ntp
+[submodule "postfix"]
+	path = postfix
+	url = https://github.com/camptocamp/puppet-postfix
