@@ -67,3 +67,7 @@
 [submodule "puppetdb"]
 	path = puppetdb
 	url = https://github.com/puppetlabs/puppetlabs-puppetdb
+[submodule "python"]
+	path = python
+	url = https://github.com/initrd/puppet-python
+	branch = centos8
