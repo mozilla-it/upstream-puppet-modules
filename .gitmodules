@@ -34,3 +34,6 @@
 [submodule "foreman"]
 	path = foreman
 	url = https://github.com/theforeman/puppet-foreman
+[submodule "grafana"]
+	path = grafana
+	url = https://github.com/voxpupuli/puppet-grafana
