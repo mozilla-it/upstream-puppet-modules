@@ -86,3 +86,6 @@
 [submodule "xinetd"]
 	path = xinetd
 	url = https://github.com/puppetlabs/puppetlabs-xinetd
+[submodule "chrony"]
+	path = chrony
+	url = https://github.com/aboe76/puppet-chrony
